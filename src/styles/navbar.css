@@ -1,0 +1,22 @@
+
+nav{
+    display: flex;
+    background-color: rgb(60, 60, 126);
+}
+
+
+.container{
+    height: 50px;
+    width: 400px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container .link{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
